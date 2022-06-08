@@ -12,16 +12,15 @@ sites:
   - name: privilegedba
     url: https://privilegedba.tur.ar/
   - name Escuela 8
-    url: https://portaleducativoes8pilar.com.ar/signin
+    url: https://portaleducativoes8pilar.com.ar
   - Villegas Pasteleria  
     url: https://andreavillegasapp.com
-  -  maderoparking.com
+  - maderoparking.com
     url: https://maderoparking.com
-  -  ordagencias.com.ar
+  - ordagencias.com.ar
     url: https://ordagencias.com.ar
-  -  agenciastfm.com.ar Gestion de loterias
+  - agenciastfm.com.ar Gestion de loterias
     url: https://agenciastfm.com.ar
-    
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
     
