@@ -11,8 +11,20 @@ sites:
     url: https://www.TFMIT.com
   - name: privilegedba
     url: https://privilegedba.tur.ar/
+  - name Escuela 8
+    url: https://portaleducativoes8pilar.com.ar/signin
+  - Villegas Pasteleria  
+    url: https://andreavillegasapp.com
+  -  maderoparking.com
+    url: https://maderoparking.com
+  -  ordagencias.com.ar
+    url: https://ordagencias.com.ar
+  -  agenciastfm.com.ar Gestion de loterias
+    url: https://agenciastfm.com.ar
+    
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -25,7 +37,7 @@ status-website:
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
-      href: /
+      href: /status
     - title: GitHub
       href: /status
 
