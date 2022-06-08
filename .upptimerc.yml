@@ -11,15 +11,15 @@ sites:
     url: https://www.TFMIT.com
   - name: privilegedba
     url: https://privilegedba.tur.ar/
-  - name Escuela 8
-    url: https://portaleducativoes8pilar.com.ar
-  - Villegas Pasteleria  
+  - name: Escuela 8
+    url:https://portaleducativoes8pilar.com.ar
+  - name: Villegas Pasteleria  
     url: https://andreavillegasapp.com
-  - maderoparking.com
+  - name: maderoparking.com
     url: https://maderoparking.com
-  - ordagencias.com.ar
+  - name: ordagencias.com.ar
     url: https://ordagencias.com.ar
-  - agenciastfm.com.ar Gestion de loterias
+  - name: agenciastfm.com.ar Gestion de loterias
     url: https://agenciastfm.com.ar
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
