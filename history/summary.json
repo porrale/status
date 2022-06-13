@@ -40,9 +40,9 @@
     "url": "https://www.TFMIT.com",
     "icon": "https://favicons.githubusercontent.com/www.tfmit.com",
     "slug": "tfmit",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 2928,
     "timeMonth": 2928,
     "timeYear": 2928,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-13": 0
+    }
   },
   {
     "name": "privilegedba",
@@ -112,18 +114,19 @@
     "url": "https://maderoparking.com",
     "icon": "https://favicons.githubusercontent.com/maderoparking.com",
     "slug": "maderoparking-com",
-    "status": "up",
-    "uptime": "73.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "73.62%",
-    "uptimeMonth": "73.62%",
-    "uptimeYear": "73.62%",
+    "status": "down",
+    "uptime": "76.53%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "76.53%",
+    "uptimeMonth": "76.53%",
+    "uptimeYear": "76.53%",
     "time": 1266,
     "timeDay": 1218,
     "timeWeek": 1266,
     "timeMonth": 1266,
     "timeYear": 1266,
     "dailyMinutesDown": {
+      "2022-06-13": 0,
       "2022-06-09": 758,
       "2022-06-08": 574
     }
