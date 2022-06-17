@@ -22,9 +22,9 @@
     "url": "https://notariar.com.ar/",
     "icon": "https://favicons.githubusercontent.com/notariar.com.ar",
     "slug": "notariar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1370,
     "timeMonth": 1379,
     "timeYear": 1379,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-17": 0
+    }
   },
   {
     "name": "TFMIT",
@@ -113,11 +115,11 @@
     "icon": "https://favicons.githubusercontent.com/maderoparking.com",
     "slug": "maderoparking-com",
     "status": "up",
-    "uptime": "87.67%",
+    "uptime": "88.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "87.67%",
-    "uptimeYear": "87.67%",
+    "uptimeMonth": "88.03%",
+    "uptimeYear": "88.03%",
     "time": 1212,
     "timeDay": 1127,
     "timeWeek": 1188,
