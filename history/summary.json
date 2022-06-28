@@ -60,9 +60,9 @@
     "url": "https://privilegedba.tur.ar/",
     "icon": "https://favicons.githubusercontent.com/privilegedba.tur.ar",
     "slug": "privilegedba",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 1306,
     "timeMonth": 1724,
     "timeYear": 1724,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-28": 0
+    }
   },
   {
     "name": "Escuela 8",
@@ -115,11 +117,11 @@
     "icon": "https://favicons.githubusercontent.com/maderoparking.com",
     "slug": "maderoparking-com",
     "status": "up",
-    "uptime": "95.00%",
+    "uptime": "95.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.00%",
-    "uptimeYear": "95.00%",
+    "uptimeMonth": "95.22%",
+    "uptimeYear": "95.22%",
     "time": 1108,
     "timeDay": 821,
     "timeWeek": 976,
