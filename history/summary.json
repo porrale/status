@@ -30,7 +30,7 @@
     "uptimeYear": "99.97%",
     "time": 1223,
     "timeDay": 1375,
-    "timeWeek": 1214,
+    "timeWeek": 1219,
     "timeMonth": 1186,
     "timeYear": 1223,
     "dailyMinutesDown": {
@@ -61,11 +61,11 @@
     "icon": "https://favicons.githubusercontent.com/privilegedba.tur.ar",
     "slug": "privilegedba",
     "status": "up",
-    "uptime": "94.33%",
+    "uptime": "94.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.78%",
-    "uptimeYear": "94.33%",
+    "uptimeYear": "94.38%",
     "time": 2422,
     "timeDay": 3609,
     "timeWeek": 3394,
@@ -105,10 +105,10 @@
     "url": "https://andreavillegasapp.com",
     "icon": "https://favicons.githubusercontent.com/andreavillegasapp.com",
     "slug": "villegas-pasteleria",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1367,
@@ -116,25 +116,28 @@
     "timeWeek": 1263,
     "timeMonth": 1345,
     "timeYear": 1367,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-28": 1
+    }
   },
   {
     "name": "maderoparking.com",
     "url": "https://maderoparking.com",
     "icon": "https://favicons.githubusercontent.com/maderoparking.com",
     "slug": "maderoparking-com",
-    "status": "up",
-    "uptime": "98.09%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.11%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.09%",
+    "uptimeYear": "98.11%",
     "time": 989,
     "timeDay": 1043,
     "timeWeek": 926,
     "timeMonth": 910,
     "timeYear": 989,
     "dailyMinutesDown": {
+      "2022-07-28": 0,
       "2022-06-09": 758,
       "2022-06-08": 574
     }
@@ -144,9 +147,9 @@
     "url": "https://ordagencias.com.ar",
     "icon": "https://favicons.githubusercontent.com/ordagencias.com.ar",
     "slug": "ordagencias-com-ar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -155,7 +158,9 @@
     "timeWeek": 1022,
     "timeMonth": 996,
     "timeYear": 1001,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-28": 0
+    }
   },
   {
     "name": "agenciastfm.com.ar Gestion de loterias",
