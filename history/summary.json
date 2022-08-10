@@ -42,10 +42,10 @@
     "url": "https://www.TFMIT.com",
     "icon": "https://favicons.githubusercontent.com/www.tfmit.com",
     "slug": "tfmit",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2123,
@@ -53,7 +53,9 @@
     "timeWeek": 1792,
     "timeMonth": 1872,
     "timeYear": 2123,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-10": 1
+    }
   },
   {
     "name": "privilegedba",
@@ -62,7 +64,7 @@
     "slug": "privilegedba",
     "status": "up",
     "uptime": "90.79%",
-    "uptimeDay": "59.00%",
+    "uptimeDay": "59.90%",
     "uptimeWeek": "56.98%",
     "uptimeMonth": "89.94%",
     "uptimeYear": "90.79%",
