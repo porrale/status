@@ -42,19 +42,19 @@
     "url": "https://www.TFMIT.com",
     "icon": "https://favicons.githubusercontent.com/www.tfmit.com",
     "slug": "tfmit",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 2284,
     "timeDay": 5751,
     "timeWeek": 3119,
     "timeMonth": 2231,
     "timeYear": 2284,
     "dailyMinutesDown": {
-      "2022-08-10": 6
+      "2022-08-10": 4
     }
   },
   {
@@ -64,7 +64,7 @@
     "slug": "privilegedba",
     "status": "up",
     "uptime": "90.79%",
-    "uptimeDay": "60.33%",
+    "uptimeDay": "60.92%",
     "uptimeWeek": "56.98%",
     "uptimeMonth": "89.94%",
     "uptimeYear": "90.79%",
@@ -91,11 +91,11 @@
     "url": "https://portaleducativoes8pilar.com.ar",
     "icon": "https://favicons.githubusercontent.com/portaleducativoes8pilar.com.ar",
     "slug": "escuela-8",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "98.68%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.95%",
     "time": 1584,
     "timeDay": 14926,
@@ -103,7 +103,7 @@
     "timeMonth": 2019,
     "timeYear": 1584,
     "dailyMinutesDown": {
-      "2022-08-10": 19,
+      "2022-08-10": 21,
       "2022-07-26": 26
     }
   },
