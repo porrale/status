@@ -62,7 +62,7 @@
     "slug": "privilegedba",
     "status": "up",
     "uptime": "90.79%",
-    "uptimeDay": "57.66%",
+    "uptimeDay": "59.00%",
     "uptimeWeek": "56.98%",
     "uptimeMonth": "89.94%",
     "uptimeYear": "90.79%",
@@ -167,19 +167,19 @@
     "url": "https://agenciastfm.com.ar",
     "icon": "https://favicons.githubusercontent.com/agenciastfm.com.ar",
     "slug": "agenciastfm-com-ar-gestion-de-loterias",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.68%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
-    "time": 1370,
-    "timeDay": 1137,
-    "timeWeek": 2080,
-    "timeMonth": 1479,
-    "timeYear": 1370,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.35%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.96%",
+    "time": 1382,
+    "timeDay": 1679,
+    "timeWeek": 2098,
+    "timeMonth": 1502,
+    "timeYear": 1382,
     "dailyMinutesDown": {
-      "2022-08-10": 19
+      "2022-08-10": 38
     }
   }
 ]
