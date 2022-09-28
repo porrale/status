@@ -197,18 +197,18 @@
     "icon": "https://favicons.githubusercontent.com/www.ole22.com.ar",
     "slug": "probando",
     "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "uptime": "99.84%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
     "time": 345,
     "timeDay": 234,
     "timeWeek": 345,
     "timeMonth": 345,
     "timeYear": 345,
     "dailyMinutesDown": {
-      "2022-09-28": 4
+      "2022-09-28": 5
     }
   },
   {
