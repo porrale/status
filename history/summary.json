@@ -2,7 +2,7 @@
   {
     "name": "Google",
     "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
@@ -20,7 +20,7 @@
   {
     "name": "notariar",
     "url": "https://notariar.com.ar/",
-    "icon": "https://favicons.githubusercontent.com/notariar.com.ar",
+    "icon": "https://icons.duckduckgo.com/ip3/notariar.com.ar.ico",
     "slug": "notariar",
     "status": "up",
     "uptime": "99.31%",
@@ -42,7 +42,7 @@
   {
     "name": "TFMIT",
     "url": "https://www.TFMIT.com",
-    "icon": "https://favicons.githubusercontent.com/www.tfmit.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.tfmit.com.ico",
     "slug": "tfmit",
     "status": "up",
     "uptime": "99.99%",
@@ -62,7 +62,7 @@
   {
     "name": "privilegedba",
     "url": "https://privilegedba.tur.ar/",
-    "icon": "https://favicons.githubusercontent.com/privilegedba.tur.ar",
+    "icon": "https://icons.duckduckgo.com/ip3/privilegedba.tur.ar.ico",
     "slug": "privilegedba",
     "status": "up",
     "uptime": "94.95%",
@@ -92,7 +92,7 @@
   {
     "name": "Escuela 8",
     "url": "https://portaleducativoes8pilar.com.ar",
-    "icon": "https://favicons.githubusercontent.com/portaleducativoes8pilar.com.ar",
+    "icon": "https://icons.duckduckgo.com/ip3/portaleducativoes8pilar.com.ar.ico",
     "slug": "escuela-8",
     "status": "up",
     "uptime": "99.87%",
@@ -115,7 +115,7 @@
   {
     "name": "Villegas Pasteleria",
     "url": "https://andreavillegasapp.com",
-    "icon": "https://favicons.githubusercontent.com/andreavillegasapp.com",
+    "icon": "https://icons.duckduckgo.com/ip3/andreavillegasapp.com.ico",
     "slug": "villegas-pasteleria",
     "status": "up",
     "uptime": "100.00%",
@@ -133,7 +133,7 @@
   {
     "name": "maderoparking.com",
     "url": "https://maderoparking.com",
-    "icon": "https://favicons.githubusercontent.com/maderoparking.com",
+    "icon": "https://icons.duckduckgo.com/ip3/maderoparking.com.ico",
     "slug": "maderoparking-com",
     "status": "up",
     "uptime": "98.59%",
@@ -156,7 +156,7 @@
   {
     "name": "ordagencias.com.ar",
     "url": "https://ordagencias.com.ar",
-    "icon": "https://favicons.githubusercontent.com/ordagencias.com.ar",
+    "icon": "https://icons.duckduckgo.com/ip3/ordagencias.com.ar.ico",
     "slug": "ordagencias-com-ar",
     "status": "up",
     "uptime": "100.00%",
@@ -174,7 +174,7 @@
   {
     "name": "agenciastfm.com.ar Gestion de loterias",
     "url": "https://agenciastfm.com.ar",
-    "icon": "https://favicons.githubusercontent.com/agenciastfm.com.ar",
+    "icon": "https://icons.duckduckgo.com/ip3/agenciastfm.com.ar.ico",
     "slug": "agenciastfm-com-ar-gestion-de-loterias",
     "status": "up",
     "uptime": "99.88%",
@@ -196,21 +196,21 @@
   {
     "name": "MCN encomiendas",
     "url": "https://www.mcnencomiendas.com.ar",
-    "icon": "https://favicons.githubusercontent.com/www.mcnencomiendas.com.ar",
+    "icon": "https://icons.duckduckgo.com/ip3/www.mcnencomiendas.com.ar.ico",
     "slug": "mcn-encomiendas",
     "status": "down",
-    "uptime": "3.97%",
+    "uptime": "3.94%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "3.97%",
-    "uptimeMonth": "3.97%",
-    "uptimeYear": "3.97%",
+    "uptimeWeek": "3.94%",
+    "uptimeMonth": "3.94%",
+    "uptimeYear": "3.94%",
     "time": 1981,
     "timeDay": 0,
     "timeWeek": 1981,
     "timeMonth": 1981,
     "timeYear": 1981,
     "dailyMinutesDown": {
-      "2022-10-02": 22,
+      "2022-10-02": 63,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
