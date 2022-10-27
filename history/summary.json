@@ -63,19 +63,19 @@
     "url": "https://privilegedba.tur.ar",
     "icon": "https://icons.duckduckgo.com/ip3/privilegedba.tur.ar.ico",
     "slug": "privileged-ba",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3875,
-    "timeDay": 6424,
-    "timeWeek": 3989,
-    "timeMonth": 3875,
-    "timeYear": 3875,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 3810,
+    "timeDay": 4793,
+    "timeWeek": 3885,
+    "timeMonth": 3810,
+    "timeYear": 3810,
     "dailyMinutesDown": {
-      "2022-10-27": 0
+      "2022-10-27": 13
     }
   },
   {
