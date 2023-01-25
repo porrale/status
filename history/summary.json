@@ -22,10 +22,10 @@
     "url": "https://notariar.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/notariar.com.ar.ico",
     "slug": "notariar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.65%",
     "time": 1146,
@@ -34,7 +34,7 @@
     "timeMonth": 1014,
     "timeYear": 1146,
     "dailyMinutesDown": {
-      "2023-01-25": 5,
+      "2023-01-25": 4,
       "2022-10-04": 15,
       "2022-08-19": 748,
       "2022-08-18": 380,
@@ -46,10 +46,10 @@
     "url": "https://tfmit.com",
     "icon": "https://icons.duckduckgo.com/ip3/tfmit.com.ico",
     "slug": "tfm-it-solutions",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1136,
@@ -58,7 +58,7 @@
     "timeMonth": 1211,
     "timeYear": 1136,
     "dailyMinutesDown": {
-      "2023-01-25": 5
+      "2023-01-25": 3
     }
   },
   {
@@ -66,11 +66,11 @@
     "url": "https://privilegedba.tur.ar",
     "icon": "https://icons.duckduckgo.com/ip3/privilegedba.tur.ar.ico",
     "slug": "privileged-ba",
-    "status": "up",
+    "status": "down",
     "uptime": "97.02%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "97.02%",
     "time": 3962,
     "timeDay": 5956,
@@ -78,6 +78,7 @@
     "timeMonth": 3533,
     "timeYear": 3962,
     "dailyMinutesDown": {
+      "2023-01-25": 3,
       "2023-01-10": 18,
       "2022-12-26": 21,
       "2022-12-16": 79,
@@ -97,11 +98,11 @@
     "url": "https://portaleducativoes8pilar.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/portaleducativoes8pilar.com.ar.ico",
     "slug": "escuela-8",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.91%",
     "time": 1387,
     "timeDay": 1917,
@@ -109,6 +110,7 @@
     "timeMonth": 1186,
     "timeYear": 1387,
     "dailyMinutesDown": {
+      "2023-01-25": 2,
       "2022-10-16": 22,
       "2022-10-06": 42,
       "2022-10-04": 26,
@@ -123,10 +125,10 @@
     "url": "https://andreavillegasapp.com",
     "icon": "https://icons.duckduckgo.com/ip3/andreavillegasapp.com.ico",
     "slug": "villegas-pasteleria",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.94%",
     "time": 1368,
@@ -135,6 +137,7 @@
     "timeMonth": 1416,
     "timeYear": 1368,
     "dailyMinutesDown": {
+      "2023-01-25": 2,
       "2023-01-11": 82,
       "2022-10-16": 47,
       "2022-10-06": 41,
@@ -146,11 +149,11 @@
     "url": "https://maderoparking.com",
     "icon": "https://icons.duckduckgo.com/ip3/maderoparking.com.ico",
     "slug": "madero-parking",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 943,
     "timeDay": 831,
@@ -158,7 +161,7 @@
     "timeMonth": 916,
     "timeYear": 943,
     "dailyMinutesDown": {
-      "2023-01-25": 4
+      "2023-01-25": 1
     }
   },
   {
@@ -166,11 +169,11 @@
     "url": "https://ordagencias.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/ordagencias.com.ar.ico",
     "slug": "ord-agencias",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1105,
     "timeDay": 1094,
@@ -178,7 +181,7 @@
     "timeMonth": 1058,
     "timeYear": 1105,
     "dailyMinutesDown": {
-      "2023-01-25": 4
+      "2023-01-25": 1
     }
   },
   {
@@ -186,11 +189,11 @@
     "url": "https://agenciastfm.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/agenciastfm.com.ar.ico",
     "slug": "agencias-tfm-gestion-de-loterias",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1353,
     "timeDay": 879,
@@ -198,7 +201,7 @@
     "timeMonth": 1173,
     "timeYear": 1353,
     "dailyMinutesDown": {
-      "2023-01-25": 4
+      "2023-01-25": 1
     }
   },
   {
@@ -206,11 +209,11 @@
     "url": "https://mcnencomiendas.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/mcnencomiendas.com.ar.ico",
     "slug": "mcn-encomiendas",
-    "status": "up",
+    "status": "down",
     "uptime": "94.30%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "94.30%",
     "time": 1220,
     "timeDay": 1104,
@@ -218,7 +221,7 @@
     "timeMonth": 1232,
     "timeYear": 1220,
     "dailyMinutesDown": {
-      "2023-01-25": 3,
+      "2023-01-25": 0,
       "2022-10-05": 929,
       "2022-10-04": 1440,
       "2022-10-03": 1440,
