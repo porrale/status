@@ -3,7 +3,6 @@ owner: porrale # Your GitHub organization or username, where this repository liv
 repo: status # The name of this repository
 assignees:
   - porrale
-  - chupy83
 
 sites:
   - name: Google
