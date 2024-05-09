@@ -1,7 +1,7 @@
 url: https://privilegedba.com.ar
-status: up
-code: 200
-responseTime: 3855
-lastUpdated: 2024-05-09T09:21:58.918Z
+status: down
+code: 500
+responseTime: 15506
+lastUpdated: 2024-05-09T10:43:05.461Z
 startTime: 2022-10-19T09:52:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
