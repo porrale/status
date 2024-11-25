@@ -13,8 +13,6 @@ sites:
     url: https://tfmit.com
   - name: PrivilegedBA
     url: https://privilegedba.com.ar
-  - name: Escuela 8
-    url: https://portaleducativoes8pilar.com.ar
   - name: Villegas Pasteleria  
     url: https://andreavillegasapp.com
   - name: Madero Parking
@@ -23,8 +21,6 @@ sites:
     url: https://ordagencias.com.ar
   - name: Agencias TFM - Gestion de loterias
     url: https://agenciastfm.com.ar
-  - name: MCN Encomiendas
-    url: https://mcnencomiendas.com.ar
   - name: Condor
     url: https://ascensorescondor.com 
     
