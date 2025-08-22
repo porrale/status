@@ -10,8 +10,8 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 111,
-    "timeDay": 82,
+    "time": 110,
+    "timeDay": 88,
     "timeWeek": 96,
     "timeMonth": 90,
     "timeYear": 109,
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/notariar.com.ar.ico",
     "slug": "notariar",
     "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "67.29%",
-    "uptimeWeek": "95.33%",
-    "uptimeMonth": "98.71%",
-    "uptimeYear": "99.85%",
+    "uptime": "99.70%",
+    "uptimeDay": "43.28%",
+    "uptimeWeek": "91.90%",
+    "uptimeMonth": "97.92%",
+    "uptimeYear": "99.78%",
     "time": 1003,
-    "timeDay": 1129,
-    "timeWeek": 1008,
-    "timeMonth": 1044,
-    "timeYear": 1005,
+    "timeDay": 0,
+    "timeWeek": 984,
+    "timeMonth": 1042,
+    "timeYear": 1006,
     "dailyMinutesDown": {
-      "2025-08-21": 471,
+      "2025-08-22": 54,
+      "2025-08-21": 762,
       "2025-07-23": 95,
       "2025-04-09": 16,
       "2025-01-11": 32,
@@ -45,8 +46,7 @@
       "2024-10-13": 17,
       "2024-10-08": 32,
       "2024-10-05": 18,
-      "2024-09-07": 15,
-      "2024-08-22": 54
+      "2024-09-07": 15
     }
   },
   {
@@ -60,11 +60,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.94%",
-    "time": 1167,
-    "timeDay": 1291,
-    "timeWeek": 1231,
-    "timeMonth": 1131,
-    "timeYear": 1159,
+    "time": 1168,
+    "timeDay": 1488,
+    "timeWeek": 1192,
+    "timeMonth": 1140,
+    "timeYear": 1160,
     "dailyMinutesDown": {
       "2025-07-23": 95,
       "2025-04-26": 17,
@@ -73,8 +73,7 @@
       "2025-01-07": 48,
       "2024-12-31": 15,
       "2024-11-06": 18,
-      "2024-09-07": 15,
-      "2024-08-22": 54
+      "2024-09-07": 15
     }
   },
   {
@@ -89,10 +88,10 @@
     "uptimeMonth": "99.25%",
     "uptimeYear": "99.76%",
     "time": 3730,
-    "timeDay": 3681,
-    "timeWeek": 3698,
-    "timeMonth": 4073,
-    "timeYear": 3680,
+    "timeDay": 3352,
+    "timeWeek": 3672,
+    "timeMonth": 4065,
+    "timeYear": 3679,
     "dailyMinutesDown": {
       "2025-08-21": 20,
       "2025-08-20": 16,
@@ -156,13 +155,13 @@
     "uptime": "77.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.84%",
+    "uptimeMonth": "93.63%",
     "uptimeYear": "30.49%",
-    "time": 1631,
-    "timeDay": 1513,
-    "timeWeek": 1481,
-    "timeMonth": 1480,
-    "timeYear": 1461,
+    "time": 1633,
+    "timeDay": 1648,
+    "timeWeek": 1484,
+    "timeMonth": 1486,
+    "timeYear": 1464,
     "dailyMinutesDown": {
       "2025-08-01": 34,
       "2025-07-23": 1370,
@@ -419,8 +418,7 @@
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
-      "2024-08-30": 281,
-      "2024-08-22": 53
+      "2024-08-30": 281
     }
   },
   {
@@ -434,17 +432,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.96%",
-    "time": 1070,
-    "timeDay": 980,
-    "timeWeek": 1067,
-    "timeMonth": 1124,
-    "timeYear": 1035,
+    "time": 1071,
+    "timeDay": 1451,
+    "timeWeek": 1096,
+    "timeMonth": 1141,
+    "timeYear": 1037,
     "dailyMinutesDown": {
       "2025-07-23": 72,
       "2025-04-26": 16,
       "2025-02-18": 44,
-      "2025-01-07": 47,
-      "2024-08-22": 53
+      "2025-01-07": 47
     }
   },
   {
@@ -453,18 +450,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ordagencias.com.ar.ico",
     "slug": "ord-agencias",
     "status": "down",
-    "uptime": "82.05%",
+    "uptime": "82.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "49.20%",
+    "uptimeYear": "49.14%",
     "time": 1080,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1033,
     "dailyMinutesDown": {
-      "2025-08-21": 1149,
+      "2025-08-22": 54,
+      "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
@@ -650,8 +648,7 @@
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 784,
-      "2025-01-07": 47,
-      "2024-08-22": 53
+      "2025-01-07": 47
     }
   },
   {
@@ -660,7 +657,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/agenciastfm.com.ar.ico",
     "slug": "agencias-tfm-gestion-de-loterias",
     "status": "down",
-    "uptime": "63.21%",
+    "uptime": "63.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -669,9 +666,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 817,
+    "timeYear": 818,
     "dailyMinutesDown": {
-      "2025-08-21": 1149,
+      "2025-08-22": 55,
+      "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
@@ -1034,8 +1032,7 @@
       "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
-      "2024-08-23": 1440,
-      "2024-08-22": 1440
+      "2024-08-23": 1440
     }
   },
   {
@@ -1050,10 +1047,10 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.76%",
     "time": 534,
-    "timeDay": 4551,
+    "timeDay": 329,
     "timeWeek": 1037,
-    "timeMonth": 582,
-    "timeYear": 532,
+    "timeMonth": 579,
+    "timeYear": 531,
     "dailyMinutesDown": {
       "2025-07-31": 45,
       "2025-07-25": 28,
