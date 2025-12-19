@@ -113,9 +113,9 @@
     "slug": "privileged-ba",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.28%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.31%",
     "uptimeYear": "99.59%",
     "time": 3667,
     "timeDay": 3688,
@@ -123,7 +123,6 @@
     "timeMonth": 3603,
     "timeYear": 3692,
     "dailyMinutesDown": {
-      "2025-12-18": 13,
       "2025-12-16": 25,
       "2025-12-15": 38,
       "2025-12-10": 21,
@@ -210,7 +209,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/andreavillegasapp.com.ico",
     "slug": "villegas-pasteleria",
     "status": "down",
-    "uptime": "70.87%",
+    "uptime": "70.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -221,7 +220,8 @@
     "timeMonth": 0,
     "timeYear": 1463,
     "dailyMinutesDown": {
-      "2025-12-18": 1393,
+      "2025-12-19": 59,
+      "2025-12-18": 1440,
       "2025-12-17": 1440,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
@@ -478,8 +478,7 @@
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
-      "2024-12-20": 1440,
-      "2024-12-19": 1440
+      "2024-12-20": 1440
     }
   },
   {
@@ -512,18 +511,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ordagencias.com.ar.ico",
     "slug": "ord-agencias",
     "status": "down",
-    "uptime": "73.60%",
+    "uptime": "73.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "16.56%",
+    "uptimeYear": "16.54%",
     "time": 1032,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1029,
     "dailyMinutesDown": {
-      "2025-12-18": 1394,
+      "2025-12-19": 59,
+      "2025-12-18": 1440,
       "2025-12-17": 1440,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
@@ -837,7 +837,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/agenciastfm.com.ar.ico",
     "slug": "agencias-tfm-gestion-de-loterias",
     "status": "down",
-    "uptime": "56.70%",
+    "uptime": "56.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -848,7 +848,8 @@
     "timeMonth": 0,
     "timeYear": 838,
     "dailyMinutesDown": {
-      "2025-12-18": 1394,
+      "2025-12-19": 59,
+      "2025-12-18": 1440,
       "2025-12-17": 1440,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
@@ -1211,8 +1212,7 @@
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
-      "2024-12-20": 1440,
-      "2024-12-19": 1440
+      "2024-12-20": 1440
     }
   },
   {
