@@ -111,19 +111,20 @@
     "url": "https://privilegedba.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/privilegedba.com.ar.ico",
     "slug": "privileged-ba",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "99.59%",
+    "uptimeDay": "95.94%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.23%",
+    "uptimeYear": "99.58%",
     "time": 3679,
-    "timeDay": 3338,
-    "timeWeek": 4738,
-    "timeMonth": 3786,
+    "timeDay": 3531,
+    "timeWeek": 4646,
+    "timeMonth": 3785,
     "timeYear": 3709,
     "dailyMinutesDown": {
-      "2025-12-22": 0,
+      "2025-12-23": 56,
+      "2025-12-22": 3,
       "2025-12-19": 20,
       "2025-12-16": 25,
       "2025-12-15": 38,
@@ -211,7 +212,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/andreavillegasapp.com.ico",
     "slug": "villegas-pasteleria",
     "status": "down",
-    "uptime": "70.65%",
+    "uptime": "70.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -222,7 +223,8 @@
     "timeMonth": 0,
     "timeYear": 1463,
     "dailyMinutesDown": {
-      "2025-12-22": 1437,
+      "2025-12-23": 56,
+      "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
       "2025-12-19": 1440,
@@ -479,8 +481,7 @@
       "2024-12-27": 1440,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
-      "2024-12-24": 1440,
-      "2024-12-23": 1440
+      "2024-12-24": 1440
     }
   },
   {
@@ -517,14 +518,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "15.46%",
+    "uptimeYear": "15.45%",
     "time": 1033,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1019,
     "dailyMinutesDown": {
-      "2025-12-22": 1437,
+      "2025-12-23": 56,
+      "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
       "2025-12-19": 1440,
@@ -853,7 +855,8 @@
     "timeMonth": 0,
     "timeYear": 836,
     "dailyMinutesDown": {
-      "2025-12-22": 1437,
+      "2025-12-23": 56,
+      "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
       "2025-12-19": 1440,
@@ -1216,8 +1219,7 @@
       "2024-12-27": 1440,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
-      "2024-12-24": 1440,
-      "2024-12-23": 1440
+      "2024-12-24": 1440
     }
   },
   {
